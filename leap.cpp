@@ -1,4 +1,4 @@
-//sum of all digits of a number
+//guess the leap year
 
 #include <iostream>
 using namespace std;
