@@ -2,7 +2,7 @@
 
 #include <iostream>
 using namespace std;
-int concat(string a,string b){
+int concat(string a,string b){ //function to concatenate two words
   cout<<a+b;
  return 0;
 }

@@ -2,7 +2,8 @@
 
 #include <iostream>
 using namespace std;
-int swap(int a,int b){
+
+int swap(int a,int b){ //function to swap a number
   int temp=0;
   temp=a;
   a=b;
@@ -10,6 +11,7 @@ int swap(int a,int b){
   cout<<a<<endl<<b<<endl;
  return 0;
 }
+
 int main() {
    int m,n;
    cin>>m>>n;
